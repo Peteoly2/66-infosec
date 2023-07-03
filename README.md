@@ -4,4 +4,4 @@
  - 0564xxxxxxxx-x
 
  ### Contact
- -email : Natthawut-cha at rmutp.ac.th
+ - email : Natthawut-cha at rmutp.ac.th
